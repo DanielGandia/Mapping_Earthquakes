@@ -25,6 +25,6 @@ Overlay showing major earthquakes over 4.5.
 
 ### Deliverable 3:
 
-Additional map shown as Satellite view.
+Third map shown in Dark view.
 
 ![additional_map.png](https://github.com/DanielGandia/Mapping_Earthquakes/blob/main/Resources/additional_map.png)
